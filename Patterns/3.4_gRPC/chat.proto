@@ -1,0 +1,20 @@
+//File defines the protobuf structure that grpc will use
+
+syntax = "proto3";
+
+//this will create a package called chat and generate some 
+//code
+package chat;
+
+
+//defines a message
+message Message {
+    string body = 1;
+}
+
+//defines methods that are available
+service ChatService{
+    rpc SayHello(Message) returns (Message){}
+}
+
+
