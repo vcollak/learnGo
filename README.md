@@ -7,7 +7,7 @@ The LearnGo project includes various Go basics as well as some patterns and exam
 
 
 ## Ceveats
-When I started to explore Go, I wanted to have something to refer back to and have some examples I can use. I would keep finding things on the web, but soon forgot about them and had to find them again. As a result, I started to just compile various examples I found useful. I figured I'd share some of these examples in hopes that they could be useful to someone. However, take them with a grain of salt since I'm by no means a Go expert and still feel vey much like a newb. 
+When I started to explore Go, I wanted to have something to refer back to and have some examples I can use. I would keep finding things on the web, but soon forgot about them and had to find them again. As a result, I started to just compile various examples I found useful. I figured I'd share some of these examples in hopes that they could be useful to someone. However, take them with a grain of salt since I'm by no means a Go expert and still feel very much like a newb. 
 
 ## Sections
 
